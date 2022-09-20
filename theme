@@ -28,9 +28,9 @@
   --root {
 background: url("https://i.imgur.com/xFbGEoL.jpg");
 }
-  --background-primary: #1a1b26;
-  --background-secondary: #171722;
-  --background-secondary-alt: #13131a;
+  --background-primary: transparent;
+  --background-secondary: transparent;
+  --background-secondary-alt: transparent;
   --background-tertiary: #16161e;
   --background-accent: #434461;
   --background-floating: #161620;
