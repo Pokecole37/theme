@@ -25,6 +25,9 @@
   --interactive-active: #b5bad1;
   --interactive-muted: #55576b; 
   --channels-default: var(--text-muted);
+  --root {
+background: url("https://i.imgur.com/xFbGEoL.jpg");
+}
   --background-primary: #1a1b26;
   --background-secondary: #171722;
   --background-secondary-alt: #13131a;
