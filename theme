@@ -172,7 +172,7 @@
 }
 .theme-light .sprite-2lxwfc:not(:hover) {
   filter: none !important;
-  background: url("https://dyzean.github.io/Tokyo-Night/assets/emoji-light.png") center/contain no-repeat !important;
+  background: url("https://i.imgur.com/xFbGEoL.jpg") center/contain no-repeat !important;
 }
 
 /* Jump to present & New message bar */
