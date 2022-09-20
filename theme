@@ -395,7 +395,7 @@ svg[fill="hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%)"] {
 }
 
 #status-picker .customEmojiPlaceholder-3mRJqA {
-  background-image: https://i.imgur.com/xFbGEoL.jpg;
+  background-image: https://imgur.com/xFbGEoL;
   background-color: var(--interactive-normal);
   mask: var(--icon) center/contain no-repeat;
   -webkit-mask: var(--icon) center/contain no-repeat;
